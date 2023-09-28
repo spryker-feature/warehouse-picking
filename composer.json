@@ -6,11 +6,13 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=8.0"
+        "php": ">=8.0",
+        "spryker/picking-list": "^1.0.0",
+        "spryker/picking-list-push-notification": "^1.0.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202212.x-dev"
+            "dev-master": "202307.x-dev"
         }
     },
     "suggest": {
