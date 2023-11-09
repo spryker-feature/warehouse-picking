@@ -1,6 +1,6 @@
 # Spryker Feature: Warehouse picking
 
-
+The Fulfillment App's Warehouse picking feature enhances order efficiency by updating to a picking list system, enabling the division of complex orders into singular pick lists. It enables warehouse product assignment at checkout and warehouse picking process. Enhanced by a robust back-end API, the feature offers improved performance and scalability.
 
 ## Installation
 
