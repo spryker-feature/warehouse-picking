@@ -7,7 +7,7 @@
     "prefer-stable": true,
     "require": {
         "php": ">=8.1",
-        "spryker/picking-list": "^1.0.0",
+        "spryker/picking-list": "^1.1.0",
         "spryker/picking-list-push-notification": "^1.0.0"
     },
     "extra": {
