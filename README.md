@@ -15,7 +15,7 @@ If you don't include the feature dependencies, make sure you use the respective 
 
 ## Optional modules
 - [PickingListExtension ^1.0.0](https://github.com/spryker/picking-list-extension) (Extension)
-- [PickingListsBackendApi ^1.0.0](https://github.com/spryker/picking-lists-backend-api) (Glue Backend)
+- [PickingListsBackendApi ^1.1.0](https://github.com/spryker/picking-lists-backend-api) (Glue Backend)
 - [PickingListsBackendApiExtension ^1.0.0](https://github.com/spryker/picking-lists-backend-api-extension) (Extension)
 - [PickingListsUsersBackendApi ^1.0.0](https://github.com/spryker/picking-lists-users-backend-api) (Glue Backend)
 - [PickingListsWarehousesBackendApi ^1.0.0](https://github.com/spryker/picking-lists-warehouses-backend-api) (Glue Backend)
